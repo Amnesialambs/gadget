@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/gadget.iml" filepath="$PROJECT_DIR$/.idea/gadget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gadget-common/gadget-common.iml" filepath="$PROJECT_DIR$/gadget-common/gadget-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gadget-manager/gadget-manager.iml" filepath="$PROJECT_DIR$/gadget-manager/gadget-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gadget-parent/gadget-parent.iml" filepath="$PROJECT_DIR$/gadget-parent/gadget-parent.iml" />
+    </modules>
+  </component>
+</project>
